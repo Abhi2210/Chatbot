@@ -1,0 +1,17 @@
+{
+  "name": "lumos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.10.0",
+    "express": "^4.15.3",
+    "superagent": "^3.5.2",
+    "superagent-auth-bearer": "0.0.1"
+  }
+}
